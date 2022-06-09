@@ -1,0 +1,29 @@
+{
+    "name": "consumo-api-practico-platzi",
+    "version": "0.1.0",
+    "description": "Proyecto del curso práctico de consumo de APIs de Platzi",
+    "main": "index.html",
+    "scripts": {
+        "dev": "live-server --port=3000 --no-browser -q"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/geaglts/consumo-api-practico-platzi.git"
+    },
+    "keywords": [
+        "javascript",
+        "npm",
+        "apis",
+        "html",
+        "css"
+    ],
+    "author": "Miguel Angel Toledo Santiago",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/geaglts/consumo-api-practico-platzi/issues"
+    },
+    "homepage": "https://github.com/geaglts/consumo-api-practico-platzi#readme",
+    "devDependencies": {
+        "live-server": "^1.2.2"
+    }
+}
